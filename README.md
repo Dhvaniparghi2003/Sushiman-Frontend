@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/QRrPE9aj3wI?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/project_html_css_website/assets/151519281/562e0f27-4b93-41cb-a63d-7c50940fc0ad" alt="Project Banner">
+      <img src="https://github.com/adrianhajdin/project_html_css_website/assets/sushiman" alt="Project Banner">
     </a>
   <br />
 
@@ -69,8 +69,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/project_html_css_website.git
-cd project_html_css_website
+git clone https://github.com/Dhvaniparghi2003/Sushiman-Frontend.git
+cd Sushiman-Frontend
 ```
 
 **Installation**
@@ -88,6 +88,5 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-
 
 #
