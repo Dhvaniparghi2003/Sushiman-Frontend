@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/QRrPE9aj3wI?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/project_html_css_website/assets/sushiman.png" alt="Project Banner">
+      <img src="https://github.com/Dhvaniparghi2003/Sushiman-Frontend/assets/sushiman.png" alt="Project Banner">
     </a>
   <br />
 
